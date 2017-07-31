@@ -1,0 +1,16 @@
+/*/commoncss/*/
+.clear{
+	clear: both;
+}
+.con01{
+	margin: auto;
+	width: 1300px;
+}
+.floatleft{
+	float: left;
+	width: 50%;
+}
+.navi-size{
+	font-size: 20px;
+}
+

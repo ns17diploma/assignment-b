@@ -1,0 +1,79 @@
+/*sec01*/
+#sec01{
+	background: url(../images/back4.jpg);
+	background-size: 85%;
+	height: 100%;
+	padding: 30px;
+}
+.karate{
+	width: 200px;
+}
+.karate1{
+	width: 237px;
+	margin-left: 860px;
+}
+.karate2{
+	width:400px;
+}
+.karate3{
+	width:360px;
+}
+.karate4{
+	width: 600px;
+	margin-top: -300px;
+	margin-left: 750px;
+}
+.karate5{
+	width: 400px;
+	margin-top: -1300px;
+	margin-left: 800px;
+	position: absolute;
+}
+.adjust{
+	margin-left: 100px;
+}
+.heading{
+	font-size: 70px;
+	padding-top: 250px;
+	text-align: center;
+}
+.icon{
+	margin-top: -400px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
+.icon1{
+	margin-top: -480px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
+.icon2{
+	margin-top: -540px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
+.icon3{
+	margin-top: -660px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
+.icon4{
+	margin-top: -1450px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
+.padding{
+	padding-top: 50px;
+}
+.white{
+	color:black;
+	padding-left: 20px;
+}
+.blue{
+	color:grey;
+}
