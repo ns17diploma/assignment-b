@@ -1,0 +1,31 @@
+.content-1{
+	text-align: left;
+	padding: 184px 0px;
+	background: url(../images/karate-1.png)center no-repeat;
+	margin: auto;
+}
+.content-1 p{
+	font-size: 14pt;
+	font-family: sans-serif;
+	text-align: left;
+	padding: 30px 0px;
+	color: white;
+	text-shadow: 3px 1px blue;
+	width: 50%;
+	margin: auto;
+}
+.content-1 h1{
+	width: 50%;
+	margin: 0 auto;
+	color: white;
+	text-shadow: 3px 2px black;
+}
+.images{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.images img{
+	width: 400px;
+	box-shadow: 0px 2px black;
+}
