@@ -1,0 +1,25 @@
+#heading{
+	text-align: center;
+	font-size: 36pt;
+	font-weight: bold;
+}
+.container{
+	margin: auto;
+	width:85% ;
+	font-family: sans-serif;
+	font-size: 14pt;
+	text-align: left;
+}
+#sec1 .container nav a{
+	margin-right: 134px;
+	color: white;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+.icon-last{
+	float: right;
+	color: white;
+	margin:95px 20px 31px 1px;
+}
+.clear{
+	clear: both;
+}
