@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	text-align: center;
+	margin: auto;
+}
+#sec1{
+	background-color: black;
+	height: 1500px;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
+#nav01 ul li{
+	display: inline-block;
+	
+}
+#nav01{
+	font-family: fantasy;
+	padding-left: 20px;
+	font-size: 20px;
+	position: relative;
+	left: -45px;
+}
+#mid01{
+	
+	width: 900px;
+	text-align: center;
+	margin: auto;
+}
+#sec1 a{
+	color: red;
+	text-decoration: none;
+}
+#word1{
+	color: red;
+	font-family: cursive; 
+	font-size: 40px;
+	
+}

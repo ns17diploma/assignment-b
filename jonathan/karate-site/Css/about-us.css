@@ -1,0 +1,26 @@
+#mid05{
+	width: 800px;
+	
+}
+#word5 h3{
+	font-family: cursive;
+	font-size: 20px;
+	align-content: left;
+	position: relative;
+	bottom: -150px;
+	float: left;
+	line-height: 1.5em;
+	right: -20px;
+}
+#pic4{
+	width: 600px;
+	position: relative;
+	top: 200px;
+	right: -50px;
+}
+#pic5{
+position: relative;
+right: -20px;
+width: 600px;
+top: 200px;
+}
