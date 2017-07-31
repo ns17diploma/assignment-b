@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+}
+
+#design{
+	background: linear-gradient(to top left, rgba(237,145,33,1), rgba(255,0,0,1));
+}
+
+#navbar{
+	width: 960px;
+	margin: auto;
+	text-align: center;
+}
+
+#logo{
+	font-size: 50px;
+	font-family: monospace;
+	color: black;
+	padding: 50px 0;
+}
+
+#menu{
+	margin-bottom: 100px;
+}
+
+#menu a{
+	text-decoration: none;
+	color: red;
+	border: solid 1px black;
+	background-color: black;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 5px 15px;
+	margin: 0 20px;
+}
+
+#link a{
+	float: right;
+	padding: 10px 10px;
+	color: black;
+}
+
+/****************************
+**********content************
+****************************/
+
+#container{
+	width: 920px;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 50px;
+}
