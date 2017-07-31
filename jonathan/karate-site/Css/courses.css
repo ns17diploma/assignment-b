@@ -1,0 +1,29 @@
+#mid03{
+	width: 900px;
+	text-align: center;
+	margin: auto;
+	position: relative;
+	top: -260px;
+}
+#word3 h3{
+	font-family: cursive;
+	font-size: 22px;
+	width: 580px;
+	font-family: cursive;
+	text-align: center;
+	color: red;
+}
+#word3{
+	position: relative;
+	bottom: 150px;
+	right: -170px;
+	text-align: center;
+}
+#pic2{
+	position: relative;
+	bottom: -100px;
+	width: 950px;
+}
+#sec1 a{
+	color: red;
+}
