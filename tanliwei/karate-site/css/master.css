@@ -1,16 +1,25 @@
 /*sec01*/
-#sec01{
+#sec00{
 	background: url(../images/back4.jpg);
 	background-size: 85%;
 	height: 100%;
 	padding: 30px;
 }
+#sec01{
+	background: url(../images/back4.jpg);
+	background-size: 85%;
+	padding: 30px;
+}
 .karate{
 	width: 200px;
+	margin-top: 50px;
+	position: absolute;
 }
 .karate1{
 	width: 237px;
 	margin-left: 860px;
+	margin-top: 50px;
+	position: absolute;
 }
 .karate2{
 	width:400px;
@@ -19,14 +28,14 @@
 	width:360px;
 }
 .karate4{
-	width: 600px;
+	width: 400px;
 	margin-top: -300px;
 	margin-left: 750px;
 }
 .karate5{
-	width: 400px;
+	width: 300px;
 	margin-top: -1300px;
-	margin-left: 800px;
+	margin-left: 550px;
 	position: absolute;
 }
 .adjust{
@@ -44,19 +53,19 @@
 	width: 90px;
 }
 .icon1{
-	margin-top: -480px;
-	margin-left: -50px;
-	position: absolute;
-	width: 90px;
-}
-.icon2{
 	margin-top: -540px;
 	margin-left: -50px;
 	position: absolute;
 	width: 90px;
 }
+.icon2{
+	margin-top: -560px;
+	margin-left: -50px;
+	position: absolute;
+	width: 90px;
+}
 .icon3{
-	margin-top: -660px;
+	margin-top: -700px;
 	margin-left: -50px;
 	position: absolute;
 	width: 90px;
