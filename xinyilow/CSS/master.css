@@ -1,0 +1,28 @@
+body{
+	background: #74ebd5;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#section1 div h1{
+	text-decoration: none;
+}
+.text{
+	margin-top: 250px;
+	font-size: 36pt;
+	font-style: italic;
+	text-align: center;
+}
+#section1 div button{
+	background-color: #4a90e2;
+	border: 0;
+	border-radius: 5px;
+	height: 40px;
+	margin-left: 170px;
+	width: 150px;
+	margin-top: 50px;
+}
+.white{
+	color: white;
+	font-size: 14pt;
+	text-decoration: none;
+}
