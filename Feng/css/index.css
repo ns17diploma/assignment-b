@@ -1,0 +1,15 @@
+.fullsite2{
+	background: url(../image/karate2.jpg)no-repeat;
+	background-size: 100%;
+}
+.full2{
+}
+.font2a{
+	font-size: 2em;
+	width: 60%;
+	margin: auto;
+	padding:40px 0px;
+	text-align: center;
+	color: red;
+	font-family: Cooper Black;
+}
