@@ -46,7 +46,8 @@ background: linear-gradient(to right, #EF629F, #EECDA3); /* W3C, IE 10+/ Edge, F
  *section02
  */
 #sec02{
-	font-size: 14pt;
+	font-size: 16pt;
+	font-family: serif;
 	margin-top: 50px;
 }
 #sec02 img{
