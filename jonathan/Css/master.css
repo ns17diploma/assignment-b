@@ -3,6 +3,12 @@ body{
 	text-align: center;
 	margin: auto;
 }
+button{
+	width: 100px;
+	height: 100px;
+	border-radius: 20px 20px;
+	background-color: #ffffff;
+}
 #sec1{
 	background-color: black;
 	height: 1500px;
