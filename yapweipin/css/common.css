@@ -1,0 +1,27 @@
+.reach{
+  color: blue !important;
+}
+
+.content-slide{
+  margin-top: 80px;
+  text-align: center;
+}
+
+img.w-300{
+  margin-left: 10px;
+  width: 300px;
+}
+
+.heading{
+  font-family: Serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 36pt;
+  text-align: center;
+}
+
+.body-text{
+  font-family: serif;
+  font-size: 16pt;
+  text-align: justify-all;
+}
