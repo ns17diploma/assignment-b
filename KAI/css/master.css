@@ -1,80 +1,63 @@
-* {
-	cursor: url(./../Images/kicon.png), auto;
-}
-
 body {
-	margin: 0;
-	background-color: #222;
-	background-image: url("./../Images/bg.png");
-	background-size: 34%;
-	overflow-x: hidden;
+	position: relative;
+	background-color: #fafafa;
 }
-
-.sec {
-	width: 100%;
-	margin: auto;
+.mainBtn a {
+	color: white;
+	text-decoration: none;
 }
-
-.sec *, footer *{
-	color: white;	
-	font-size: 20px;
+a {
+	color: black;
+	text-decoration: none;
 }
-
-.title {
-	font-size: 48px;
-	text-align: center;
-	font-weight: bold;
-}
-
 .left {
 	float: left;
+	left: 0;
 }
-
 .right {
 	float: right;
+	right: 0;
 }
-
-/* Section */
-.sec .pic1 {
-	width: 300px;
-	position: absolute;
-	left: 10px;	
+.clear {
+	clear: both;
 }
-
-.sec .pic2 {
-	width: 300px;
-	position: absolute;
-	right: 10px;
+.centerCont {
+	width: 820px;
+	margin: auto;	
 }
-
-.sec ul li {
-	display: inline-block;
-	width: 24%;
-	text-align: center;
-	padding: 30px 0;
-}
-
-.sec ul li:hover {
-	background-color: #444;
-}
-
-*.none {
-	border: none;
+.none {
 	background: none;
-	text-decoration: none;
-	list-style-type: none;
 }
-
-.sec div ul li a button{
-	padding: 30px 100px;
-}
-/* Content */
-.cont {
-	width: 60%;
-	margin: auto;
-}
-
-.topic {
-	font-size: 1.5em;
+/**************************/
+h1.topic {
+	font-family: serif;
+	font-weight: bold;
+	font-size: 36pt;
+	font-style: italic;
 	text-align: center;
+}
+body * {
+	font-family: sans-serif;
+	font-size: 16pt;
+	font-weight: normal;
+}
+.bgKarate {
+	position: absolute;
+	height: 100vh;
+	opacity: 0.5;
+	z-index: -1;
+}
+.bgImg {
+	width: 820px;
+}
+.mainBtn {
+	border: none;
+	width: 200px;
+	background: black;
+}
+.mainBtn:hover {
+	background-color: #666666;
+}
+#mainCont {
+	margin-top: 50px;
 }
