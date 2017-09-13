@@ -1,25 +1,37 @@
 #heading{
-	text-align: center;
-	font-size: 36pt;
-	font-weight: bold;
+  font-size: 36pt;
+  font-family: serif;
+  font-weight: bold;
+  font-style: italic;
+  padding-top: 250px;
+  text-align: center;
 }
 .container{
-	margin: auto;
-	width:85% ;
-	font-family: sans-serif;
-	font-size: 14pt;
-	text-align: left;
+  margin: auto;
+  width:85% ;
+  font-size: 14pt;
+  text-align: left;
 }
 #sec1 .container nav a{
-	margin-right: 134px;
-	color: white;
-	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  margin-right: 3em;
+  color: white;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
-.icon-last{
-	float: right;
-	color: white;
-	margin:95px 20px 31px 1px;
+.float-l{
+  float: left;
+}
+.float-r{
+  float: right;
 }
 .clear{
-	clear: both;
+  clear: both;
+}
+.mg1{
+  margin-top: 1em;
+}
+.head-image{
+  width: 2em;
+}
+.head{
+  padding: 0 0 0 84px;
 }
