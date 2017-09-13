@@ -1,40 +1,43 @@
-.fullsite{
-	margin: auto;
-	padding-top: 30px;
-	background:linear-gradient(to top ,rgba(200,200,200,1),rgba(105,0,105,1))no-repeat; 
-	border:solid 1px black;
-}
-.image1{
-	width: 100px;
-}
-.clear{
-	clear: both;
-}
-.left1{
-	width: 40%;
-	float: left;
-	padding-left: 10px;
-}
-.right1{
-	width: 60%;
-	float: left;
-}
-.iconright{
-	float: right;
-	font-size: 3em;
-}
-.font1a{
-	display: inline-block;
-	font-family: Freestyle Script;
-	font-size: 5em;
-	color: blue;
-}
-.font1b{
-	padding-left: 10px;
-	padding-right: 15px;
-	padding-top: 70px;
-	font-family: Algerian;
-	font-size: 2.5em;
-	display: inline-block;
-	color: white;
-}
+  .fullsite{
+    margin: auto;
+    padding-top: 30px;
+    background:linear-gradient(to top ,rgba(200,200,200,1),rgba(105,0,105,1))no-repeat; 
+    border:solid 1px black;
+  }
+  .image1{
+    width: 80px;
+    position: absolute;
+  }
+  .clear{
+    clear: both;
+  }
+  .left1{
+    width: 40%;
+    float: left;
+    padding-left: 10px;
+  }
+  .right1{
+    width: 60%;
+    float: left;
+  }
+  .iconright{
+    float: right;
+    font-size: 3em;
+  }
+  .font1a{
+    display: inline-block;
+    font-family: Freestyle Script;
+    font-size: 5em;
+    margin-left: 50px;
+    color: blue;
+  }
+  .font1b{
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-family: Algerian;
+    font-size: 2em;
+    display: inline-block;
+    color: white;
+  }
