@@ -1,0 +1,29 @@
+
+#mid02 {
+	width: 900px;
+	text-align: center;
+	margin: auto;
+
+
+}
+#word02{
+	width: 600px;
+	font-size: 17px;
+	line-height: 2em;
+	font-family: cursive;
+	text-align: center;
+	position: relative;
+	right: -150px;
+	top: 100px;
+}
+#pic1{
+	position: relative;
+	bottom: -100px;
+	width: 800px;
+}
+#sec1 a{
+	color: red;
+	font-size: 20px;
+	position: relative;
+	top: 100px;
+}
